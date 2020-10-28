@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-stasi&label=Profile%20views&color=0e75b6&style=flat" alt="s-stasi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-stasi" alt="s-stasi" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=s-stasi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [Snake-c-](https://github.com/s-stasi/Snake-c-)
 
