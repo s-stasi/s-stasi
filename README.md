@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 I'm a Computer Engineering student at the University of Bergamo, originally from Cremona, Italy 🇮🇹.  <br><br>🚗 I'm currently working on **embedded programming** for the **Formula SAE** project with the student team **E-Racing Bergamo** — building real-time systems for an electric race car 🏎️⚡. <br><br>🧠 Always curious and eager to learn something new — from microcontrollers to modern web frameworks!</p>
+<p align="left">🎓 I'm a Computer Engineering student at the University of Bergamo, originally from Cremona, Italy 🇮🇹.  <br><br>🚗 I'm currently working on an ECU for the Formula SAE project with the student team E-Racing Bergamo — building real-time systems for an electric race car 🏎️⚡. <br><br>🧠 Always curious and eager to learn something new — from microcontrollers to modern web frameworks!</p>
 
 ###
 
